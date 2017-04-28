@@ -1,0 +1,2 @@
+# collectionviewChoose
+collectionview利用多选实现单选和多选
